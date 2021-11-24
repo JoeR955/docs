@@ -25,5 +25,6 @@ children:
   - /git-and-github-learning-resources
 redirect_from:
   - /github/getting-started-with-github/quickstart/
----
+---tech/joist- 
+
 
